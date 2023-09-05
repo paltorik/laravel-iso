@@ -1,0 +1,17 @@
+{
+    "name": "language/iso",
+    "version": "0.0.1",
+    "description": "Implements work with the iso 639-1 language standard. Validators are provided based on the standard",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Language\\Iso\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "paltorik"
+        }
+    ],
+    "require": {}
+}
